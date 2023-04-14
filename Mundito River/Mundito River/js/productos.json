@@ -1,0 +1,52 @@
+
+
+[
+    {
+    "id": "CamisetaNegraRoja",
+    "nombre": "Camiseta Negra Roja",
+    "img": "./images/tienda/RemeraNegraRoja.jpg",
+    "precio": 4700
+},
+{
+    "id":"Camiseta-Banda",
+    "nombre": "Camiseta Banda",
+    "img": "./images/tienda/Camiseta-Banda.jpg",
+    "precio": 4700
+},
+{
+    "id":"short-Negro",
+    "nombre": "short Negro",
+    "img": "./images/tienda/short-Negro.jpg",
+    "precio": 4700
+},
+{
+    "id": "Pantalon-Violeta",
+    "nombre": "Pantalon Violeta",
+    "img": "./images/tienda/Pantalon-Violeta.jpg",
+    "precio": 3900
+},
+{
+    "id": "Short-Rojo",
+    "nombre": "Short Rojo",
+    "img": "./images/tienda/Short-Rojo.jpg",
+    "precio": 3900
+},
+{
+    "id": "Pantalon-Rojo",
+    "nombre": "Pantalon Rojo",
+    "img": "./images/tienda/Pantalon-Rojo.jpg",
+    "precio": 3900
+},
+{
+    "id": "Campera-Clasica",
+    "nombre": "Campera Clasica",
+    "img": "./images/tienda/Campera-Clasica.jpg",
+    "precio": 4800
+},
+{
+    "id": "Camperon-Negro",
+    "nombre": "Camperon Negro",
+    "img": "./images/tienda/Camperon-Negro.jpg",
+    "precio": 4500
+}
+]
